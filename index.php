@@ -13,4 +13,5 @@ switch ($x){
         default:
         echo "khong phai la so 1,2,3";
 }
+echo "day co phai la so 1,2,3 khong";
 ?>
